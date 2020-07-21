@@ -1,3 +1,10 @@
+# About
+This is a reading list react app. Showcases context passing within component tree using **React Context API** for Class components as well as using **React Hooks** for stateless functional componets. Using **Reducer** concept to encapsulate the state modifying functionalities and finally **storing state in localStorage** to save the booklist.
+
+I followed this amazing [tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI).
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
