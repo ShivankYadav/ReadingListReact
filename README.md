@@ -3,6 +3,17 @@ This is a reading list react app. Showcases context passing within component tre
 
 I followed this amazing [tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI).
 
+## Using App
+
+  1. Fill in the book's details and click on **Add Book**.
+  ![addBook](https://github.com/ShivankYadav/ReadingListReact/blob/master/images/addingBook.png)
+  
+  2. You will observe that the book is added to the list. You can safely close the application now.
+  ![addingResult](https://github.com/ShivankYadav/ReadingListReact/blob/master/images/addingResult.png)
+  
+  3. When you are done with ant of the books on your list, just **click it to remove** from the list.
+  ![removingBook](https://github.com/ShivankYadav/ReadingListReact/blob/master/images/removingBook.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
